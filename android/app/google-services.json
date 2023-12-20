@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932322350891",
+    "project_id": "busco-f19c6",
+    "storage_bucket": "busco-f19c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932322350891:android:7dbeeebedcfee5f3c0d76e",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932322350891-h2hr62grrk9glv9at3v4i4f2n1hd9tpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXXkyxlQfuTbVrJY1EKKQMp_41vn4GntA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932322350891-h2hr62grrk9glv9at3v4i4f2n1hd9tpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
